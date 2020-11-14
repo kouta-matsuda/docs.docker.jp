@@ -93,7 +93,7 @@ Docker であれば、移動可能な Python ランタイムをイメージ内�
 ..    Assemble your containers and supporting infrastructure into a complete application.
 ..    Test, share, and deploy your complete containerized application.
 
-1. アプリケーションの各コンポーネントに対する個々ののコンテナを Docker イメージから作成し、作成およびテストします。
+1. アプリケーションの各コンポーネントに対する個々のコンテナを Docker イメージから作成し、作成およびテストします。
 2. コンテナと支える基盤（インフラ）を組み合わせ、アプリケーションを完成します。
 3. 完全したコンテナ化アプリケーションをテスト、共有、デプロイします。
 
